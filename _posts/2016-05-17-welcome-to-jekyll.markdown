@@ -1,25 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to my New Website!"
 date:   2016-05-17 12:12:10 -0400
-categories: jekyll update
+categories: quick update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hello, welcome back to my blog, hopefully this time I'll stick around for a little longer. I'm trying to host my own website and enhance it as I go. I am trying to connect my website with my [Youtube Channel], but in the meanwhile you can go ahead and check it out yourselves! 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+If you have any questions you may also check out my [Twitter] and my [Instagram] if you'd like! Thank you for coming back and stay awesome!
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[Youtube Channel]: http://www.youtube.com/edw2056
+[Twitter]:   https://www.twitter.com/edw2056
+[Instagram]:   https://www.instagran.com/_eduardo_vieira_
