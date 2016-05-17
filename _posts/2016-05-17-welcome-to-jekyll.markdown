@@ -10,4 +10,4 @@ If you have any questions you may also check out my [Twitter] and my [Instagram]
 
 [Youtube Channel]: http://www.youtube.com/edw2056
 [Twitter]:   https://www.twitter.com/edw2056
-[Instagram]:   https://www.instagran.com/_eduardo_vieira_
+[Instagram]:   https://www.instagram.com/_eduardo_vieira_
