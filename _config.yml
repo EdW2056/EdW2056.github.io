@@ -11,7 +11,7 @@ title: Eduardo Vieira
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to my new website, I'll try to make it good looking, 
   blog and upload my videos as often as possible!
-  Check out my Social Media to keep up to date.
+  Check out my Social Media to stay up to date.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://youtube.com/edw2056" # the base hostname & protocol for your site
 twitter_username: EdW2056
